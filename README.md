@@ -11,7 +11,7 @@ This toolkit helps marketers streamline their daily workflows by integrating AI 
 - **Email Sequence Automator:** Drip campaign structures for conversion optimization.
 
 ## 🚀 How to Use
-1. Clone this repository: `git clone https://github.com/yourusername/marketing-ai-toolkit.git`
+1. Clone this repository: `git clone https://github.com/UZAIR7150/marketing-ai-toolkit.git`
 2. Run the Python scripts in your local environment.
 3. Use the generated outputs directly in your AI tools (Claude/ChatGPT).
 
